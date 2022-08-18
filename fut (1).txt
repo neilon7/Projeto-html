@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Barbearia Alura </title>
+        <link rel="stylesheet" href= "style.css">
+        <style>
+            p {
+                text-aling: center
+            }
+            p {
+                font-size: 20px
+            }
+        </style>
+    </head>
+
+    <body>
+
+                    <h1 style="text-align: center;">Academia do Edimar</h1>
+
+<img src="https://livewelljf.com.br/wp-content/uploads/2021/10/Livewell_O-que-e-FutFit.jpg">
+
+        <p style="font-size: 20px">Localizada no centro da cidade (campo atletico) a <strong>Academia do Edimar</strong> traz para o mercado o melhor desempenho no futebol rebouçense. Fundada em 100(a.c), a academia do edimar já é destaque na cidade e conquista novos jogadores a cada 1 mili segundos.</p>
+
+    <p>Nossa missão é: <strong><i>"Proporcionar um futebol ruim para todos e ainda dar uns pikes"</i></strong>.</p>
+
+<p>Oferecemos profissionais inexperientes e mal antenados às mudanças no mundo do futebola. O atendimento possui padrão chato pra saci e muito ruim, não garantindo qualidade e satisfação dos nossos jogadores.</p>
+
+</body>
